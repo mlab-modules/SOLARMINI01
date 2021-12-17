@@ -4,7 +4,7 @@
 # SOLARMINI01A
 <!--- Emodule --->
 
-<!--- subtitle ---> Small MPPT module for photovoltaic cells. <!--- Esubtitle --->
+<!--- subtitle ---> MPPT module for up to 5 Watt photovoltaic panel.<!--- Esubtitle --->
 
 ![SOLARMINI01A](/doc/img/SOLARMINI01A_top_big.jpg)
 
