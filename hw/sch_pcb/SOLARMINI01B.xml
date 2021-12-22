@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>F:\MLAB_G\Moduly_zvlast\SOLARMINI01\hw\sch_pcb\SOLARMINI01B.kicad_sch</source>
+    <date>22.12.2021 12:41:42</date>
+    <tool>Eeschema (5.99.0-13046-g4fe9f01eb0)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>SOLARMINI01B.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>47uF/16</value>
+      <footprint>Mlab_C:TantalC_SizeC_Reflow</footprint>
+      <fields>
+        <field name="UST_ID">5c70984412875079b91f8867</field>
+      </fields>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="UST_ID" value="5c70984412875079b91f8867"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SOLARMINI01B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>88af01fd-14b2-4407-87ca-8afa17bc9491</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984712875079b91f8b4c</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SOLARMINI01B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a6860e4f-d3f8-4bc9-97d6-895c5ce84032</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984712875079b91f8b50</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="UST_ID" value="5c70984712875079b91f8b50"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SOLARMINI01B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c752bd8f-f7fd-4c60-891e-9b87bb99e626</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984712875079b91f8b4c</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SOLARMINI01B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e3371594-5fb5-45bc-afdf-557076fc9b85</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984812875079b91f8bbd</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="UST_ID" value="5c70984812875079b91f8bbd"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SOLARMINI01B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>17c22ceb-98fb-4683-aae6-acd1b7ca0ca4</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>47uF/16</value>
+      <footprint>Mlab_C:TantalC_SizeC_Reflow</footprint>
+      <fields>
+        <field name="UST_ID">5c70984412875079b91f8867</field>
+      </fields>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="UST_ID" value="5c70984412875079b91f8867"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SOLARMINI01B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2e20b56c-3f44-4231-933a-149055a41d3f</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>47uF/16</value>
+      <footprint>Mlab_C:TantalC_SizeC_Reflow</footprint>
+      <fields>
+        <field name="UST_ID">5c70984412875079b91f8867</field>
+      </fields>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="UST_ID" value="5c70984412875079b91f8867"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SOLARMINI01B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9a4ac43d-62bd-466d-9931-4d4e7db4d588</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>1nF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984712875079b91f8b45</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="UST_ID" value="5c70984712875079b91f8b45"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SOLARMINI01B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f95fbc88-beda-47e0-825b-8cd3c63256d1</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>15MQ040N</value>
+      <footprint>Diode_SMD:D_SMA</footprint>
+      <fields>
+        <field name="UST_ID">5c70984512875079b91f88b0</field>
+      </fields>
+      <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <property name="UST_ID" value="5c70984512875079b91f88b0"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SOLARMINI01B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6ebf9b32-12cd-4595-af06-e4cf81ac4d0a</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>SMBJ5.0A</value>
+      <footprint>Diode_SMD:D_SMA</footprint>
+      <fields>
+        <field name="UST_ID">5c70984512875079b91f88c7</field>
+      </fields>
+      <libsource lib="Device" part="D_Zener" description="Zener diode"/>
+      <property name="UST_ID" value="5c70984512875079b91f88c7"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SOLARMINI01B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>506c8cfe-1ecb-4d75-a95a-df4140ea360f</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>WAGO 256 RED</value>
+      <footprint>Mlab_CON:WAGO256</footprint>
+      <fields>
+        <field name="UST_ID">5c70984412875079b91f87c5</field>
+      </fields>
+      <libsource lib="MLAB_Jumpers" part="CONN1_1" description="Symbole general de connecteur"/>
+      <property name="UST_ID" value="5c70984412875079b91f87c5"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SOLARMINI01B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ae7443a5-830b-41de-a85d-f96b896b066d</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>WAGO 256 BLUE</value>
+      <footprint>Mlab_CON:WAGO256</footprint>
+      <fields>
+        <field name="UST_ID">5c70984412875079b91f87c3</field>
+      </fields>
+      <libsource lib="MLAB_Jumpers" part="CONN1_1" description="Symbole general de connecteur"/>
+      <property name="UST_ID" value="5c70984412875079b91f87c3"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SOLARMINI01B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f4b72ede-6abb-4b6e-a92b-9fe98fd3ac59</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>HEADER_1x01</value>
+      <footprint>Mlab_Pin_Headers:Straight_1x01</footprint>
+      <libsource lib="MLAB_HEADER" part="HEADER_1x01" description="1x01 2.54 mm pitch header"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SOLARMINI01B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f9262074-7be4-480f-9dc1-dcf7e5e55044</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>HEADER_2x03_PARALLEL</value>
+      <footprint>Mlab_Pin_Headers:Straight_2x03</footprint>
+      <libsource lib="MLAB_HEADER" part="HEADER_2x03_PARALLEL" description="2x03 2.54 mm pitch header, 2 pins next to each other are connected"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SOLARMINI01B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4170a625-9721-42e5-a9b6-3f048c9a8306</tstamps>
+    </comp>
+    <comp ref="L1">
+      <value>10uH - DE1205-10</value>
+      <footprint>Mlab_L:DE1205-10</footprint>
+      <fields>
+        <field name="UST_ID">5c70984412875079b91f8822</field>
+      </fields>
+      <libsource lib="Device" part="L_Small" description="Inductor, small symbol"/>
+      <property name="UST_ID" value="5c70984412875079b91f8822"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SOLARMINI01B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>188e10fd-f44f-42bb-b115-4b3e6c92822c</tstamps>
+    </comp>
+    <comp ref="M1">
+      <value>HOLE</value>
+      <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
+      <libsource lib="MLAB_MECHANICAL" part="HOLE" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SOLARMINI01B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b47b4b8a-cb47-4012-9f4a-90ecfe3889b0</tstamps>
+    </comp>
+    <comp ref="M2">
+      <value>HOLE</value>
+      <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
+      <libsource lib="MLAB_MECHANICAL" part="HOLE" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SOLARMINI01B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>159b514a-8c4b-4bc4-b3c3-a8a514e4599a</tstamps>
+    </comp>
+    <comp ref="M3">
+      <value>HOLE</value>
+      <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
+      <libsource lib="MLAB_MECHANICAL" part="HOLE" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SOLARMINI01B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2e88cb26-a706-4b05-8023-c06c8b08ca64</tstamps>
+    </comp>
+    <comp ref="M4">
+      <value>HOLE</value>
+      <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
+      <libsource lib="MLAB_MECHANICAL" part="HOLE" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SOLARMINI01B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>43b4dcd9-8649-4220-ac90-5b7c501426ae</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984512875079b91f898c</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="UST_ID" value="5c70984512875079b91f898c"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SOLARMINI01B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>79608abb-fdb3-471a-a65e-89b6d66e306f</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>-</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SOLARMINI01B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7a3c21de-f1e6-4dc3-9615-7110fa1e35bd</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>0R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984512875079b91f896b</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="UST_ID" value="5c70984512875079b91f896b"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SOLARMINI01B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d1745e29-5316-4db9-843a-c6db511f2de1</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984512875079b91f898c</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="UST_ID" value="5c70984512875079b91f898c"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SOLARMINI01B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>11bf8d4e-809e-4f87-b7f7-652f9899650b</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984512875079b91f898c</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="UST_ID" value="5c70984512875079b91f898c"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SOLARMINI01B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cdcd9210-edd9-432d-88ac-c1f213ce4645</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>0R47</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="UST_ID">60be2ed51287500165e6c1cd</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="UST_ID" value="60be2ed51287500165e6c1cd"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SOLARMINI01B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9f2de473-6fc6-4353-bca0-23b09c0a5c8c</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>560k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984712875079b91f8aa6</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="UST_ID" value="5c70984712875079b91f8aa6"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SOLARMINI01B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d002ef4c-337c-4971-b91d-436074f56da4</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>270k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984712875079b91f8aa0</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="UST_ID" value="5c70984712875079b91f8aa0"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SOLARMINI01B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>52713199-80db-4f1d-b156-616926d66857</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>SPV1040</value>
+      <footprint>Package_SO:TSSOP-8_4.4x3mm_P0.65mm</footprint>
+      <fields>
+        <field name="UST_ID">5c70984612875079b91f89bc</field>
+      </fields>
+      <libsource lib="MLAB_IO" part="SPV1040" description="High efficiency solar battery charger with embedded MPPT"/>
+      <property name="UST_ID" value="5c70984612875079b91f89bc"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SOLARMINI01B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>50aed2bf-d593-4de9-87ef-82cfdd8f023f</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Polarized">
+      <description>Polarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Polarized</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_Schottky">
+      <description>Schottky diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Schottky</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_Zener">
+      <description>Zener diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Zener</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="L_Small">
+      <description>Inductor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Choke_*</fp>
+        <fp>*Coil*</fp>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">L_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MLAB_HEADER" part="HEADER_1x01">
+      <description>1x01 2.54 mm pitch header</description>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">HEADER_1x01</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="MLAB_HEADER" part="HEADER_2x03_PARALLEL">
+      <description>2x03 2.54 mm pitch header, 2 pins next to each other are connected</description>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">HEADER_2x03_PARALLEL</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+        <pin num="2" name="" type="input"/>
+        <pin num="3" name="" type="input"/>
+        <pin num="4" name="" type="input"/>
+        <pin num="5" name="" type="input"/>
+        <pin num="6" name="" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="MLAB_IO" part="SPV1040">
+      <description>High efficiency solar battery charger with embedded MPPT</description>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">SPV1040</field>
+        <field name="Footprint">Package_SO:TSSOP-8_4.4x3mm_P0.65mm</field>
+      </fields>
+      <pins>
+        <pin num="1" name="MPP-SET" type="unspecified"/>
+        <pin num="2" name="GND" type="unspecified"/>
+        <pin num="3" name="LX" type="unspecified"/>
+        <pin num="4" name="VOUT" type="unspecified"/>
+        <pin num="5" name="VCTRL" type="unspecified"/>
+        <pin num="6" name="ICTRL-" type="unspecified"/>
+        <pin num="7" name="ICTRL+" type="unspecified"/>
+        <pin num="8" name="XSHUT" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="MLAB_Jumpers" part="CONN1_1">
+      <description>Symbole general de connecteur</description>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">CONN1_1</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MLAB_MECHANICAL" part="HOLE">
+      <fields>
+        <field name="Reference">M</field>
+        <field name="Value">HOLE</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Device.lib</uri>
+    </library>
+    <library logical="MLAB_HEADER">
+      <uri>F:\MLAB_G\kicad-mlab\symbols/MLAB_HEADER.lib</uri>
+    </library>
+    <library logical="MLAB_IO">
+      <uri>F:\MLAB_G\kicad-mlab\symbols/MLAB_IO.kicad_sym</uri>
+    </library>
+    <library logical="MLAB_Jumpers">
+      <uri>F:\MLAB_G\kicad-mlab\symbols/MLAB_Jumpers.lib</uri>
+    </library>
+    <library logical="MLAB_MECHANICAL">
+      <uri>F:\MLAB_G\kicad-mlab\symbols/MLAB_MECHANICAL.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/PV+">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="P1" pintype="passive"/>
+      <node ref="L1" pin="1" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+    </net>
+    <net code="2" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="P1" pintype="passive"/>
+      <node ref="J4" pin="1" pintype="input"/>
+      <node ref="J4" pin="2" pintype="input"/>
+      <node ref="J4" pin="5" pintype="input"/>
+      <node ref="J4" pin="6" pintype="input"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="GND" pintype="unspecified"/>
+    </net>
+    <net code="3" name="Net-(C2-Pad1)">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="MPP-SET" pintype="unspecified"/>
+    </net>
+    <net code="4" name="Net-(C3-Pad1)">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="ICTRL+" pintype="unspecified"/>
+    </net>
+    <net code="5" name="Net-(C3-Pad2)">
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="ICTRL-" pintype="unspecified"/>
+    </net>
+    <net code="6" name="Net-(C4-Pad1)">
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="VOUT" pintype="unspecified"/>
+    </net>
+    <net code="7" name="Net-(C7-Pad1)">
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="J4" pin="3" pintype="input"/>
+      <node ref="J4" pin="4" pintype="input"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+    </net>
+    <net code="8" name="Net-(C8-Pad1)">
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="VCTRL" pintype="unspecified"/>
+    </net>
+    <net code="9" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L1" pin="2" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="LX" pintype="unspecified"/>
+    </net>
+    <net code="10" name="Net-(J3-Pad1)">
+      <node ref="J3" pin="1" pintype="input"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="XSHUT" pintype="unspecified"/>
+    </net>
+    <net code="11" name="unconnected-(M1-Pad1)">
+      <node ref="M1" pin="1" pintype="input+no_connect"/>
+    </net>
+    <net code="12" name="unconnected-(M2-Pad1)">
+      <node ref="M2" pin="1" pintype="input+no_connect"/>
+    </net>
+    <net code="13" name="unconnected-(M3-Pad1)">
+      <node ref="M3" pin="1" pintype="input+no_connect"/>
+    </net>
+    <net code="14" name="unconnected-(M4-Pad1)">
+      <node ref="M4" pin="1" pintype="input+no_connect"/>
+    </net>
+  </nets>
+</export>

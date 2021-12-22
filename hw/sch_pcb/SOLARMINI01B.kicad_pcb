@@ -227,13 +227,14 @@
     (tags "WAGO-Series 236, 2Stift, 1pol, RM 5mm, Anreibare Leiterplattenklemme")
     (property "Sheetfile" "SOLARMINI01B.kicad_sch")
     (property "Sheetname" "")
+    (property "UST_ID" "5c70984412875079b91f87c3")
     (path "/f4b72ede-6abb-4b6e-a92b-9fe98fd3ac59")
     (attr through_hole)
     (fp_text reference "J2" (at -5.842 0 90) (layer "F.SilkS")
       (effects (font (size 1.524 1.524) (thickness 0.3048)))
       (tstamp 8e713992-3bdc-4fb5-af58-763ef033b447)
     )
-    (fp_text value "WAGO 256" (at 0.254 4.064) (layer "F.SilkS") hide
+    (fp_text value "WAGO 256 BLUE" (at 0.254 4.064) (layer "F.SilkS") hide
       (effects (font (size 1.524 1.524) (thickness 0.3048)))
       (tstamp 22a8d0c2-6130-41c5-8e3f-198a9055098c)
     )
@@ -275,13 +276,14 @@
     (tags "WAGO-Series 236, 2Stift, 1pol, RM 5mm, Anreibare Leiterplattenklemme")
     (property "Sheetfile" "SOLARMINI01B.kicad_sch")
     (property "Sheetname" "")
+    (property "UST_ID" "5c70984412875079b91f87c5")
     (path "/ae7443a5-830b-41de-a85d-f96b896b066d")
     (attr through_hole)
     (fp_text reference "J1" (at -5.842 0 90) (layer "F.SilkS")
       (effects (font (size 1.524 1.524) (thickness 0.3048)))
       (tstamp b62df63b-3ff4-47f3-b902-c2ad25e03ddc)
     )
-    (fp_text value "WAGO 256" (at 0.254 4.064) (layer "F.SilkS") hide
+    (fp_text value "WAGO 256 RED" (at 0.254 4.064) (layer "F.SilkS") hide
       (effects (font (size 1.524 1.524) (thickness 0.3048)))
       (tstamp 0e588ebb-0a95-4129-826b-69e9b200b592)
     )
@@ -398,6 +400,7 @@
     (tags "Tantal Cap. , Size C, EIA-6032, Reflow,")
     (property "Sheetfile" "SOLARMINI01B.kicad_sch")
     (property "Sheetname" "")
+    (property "UST_ID" "5c70984412875079b91f8867")
     (path "/9a4ac43d-62bd-466d-9931-4d4e7db4d588")
     (attr smd)
     (fp_text reference "C7" (at 0 2.85) (layer "B.SilkS")
@@ -446,6 +449,7 @@
     (tags "resistor")
     (property "Sheetfile" "SOLARMINI01B.kicad_sch")
     (property "Sheetname" "")
+    (property "UST_ID" "5c70984512875079b91f898c")
     (path "/79608abb-fdb3-471a-a65e-89b6d66e306f")
     (attr smd)
     (fp_text reference "R1" (at 0 1.65 90) (layer "B.SilkS") hide
@@ -488,6 +492,7 @@
     (tags "capacitor")
     (property "Sheetfile" "SOLARMINI01B.kicad_sch")
     (property "Sheetname" "")
+    (property "UST_ID" "5c70984712875079b91f8b45")
     (path "/f95fbc88-beda-47e0-825b-8cd3c63256d1")
     (attr smd)
     (fp_text reference "C8" (at 0 1.68 90) (layer "B.SilkS") hide
@@ -530,6 +535,7 @@
     (tags "capacitor")
     (property "Sheetfile" "SOLARMINI01B.kicad_sch")
     (property "Sheetname" "")
+    (property "UST_ID" "5c70984712875079b91f8b50")
     (path "/c752bd8f-f7fd-4c60-891e-9b87bb99e626")
     (attr smd)
     (fp_text reference "C3" (at -2.8092 0.4064) (layer "B.SilkS")
@@ -572,6 +578,7 @@
     (tags "resistor")
     (property "Sheetfile" "SOLARMINI01B.kicad_sch")
     (property "Sheetname" "")
+    (property "UST_ID" "5c70984712875079b91f8aa0")
     (path "/52713199-80db-4f1d-b156-616926d66857")
     (attr smd)
     (fp_text reference "R8" (at 0 1.65 90) (layer "B.SilkS") hide
@@ -614,6 +621,7 @@
     (tags "Tantal Cap. , Size C, EIA-6032, Reflow,")
     (property "Sheetfile" "SOLARMINI01B.kicad_sch")
     (property "Sheetname" "")
+    (property "UST_ID" "5c70984412875079b91f8867")
     (path "/88af01fd-14b2-4407-87ca-8afa17bc9491")
     (attr smd)
     (fp_text reference "C1" (at 0 2.85 90) (layer "B.SilkS") hide
@@ -662,6 +670,7 @@
     (tags "resistor")
     (property "Sheetfile" "SOLARMINI01B.kicad_sch")
     (property "Sheetname" "")
+    (property "UST_ID" "5c70984712875079b91f8aa6")
     (path "/d002ef4c-337c-4971-b91d-436074f56da4")
     (attr smd)
     (fp_text reference "R7" (at 0 1.65) (layer "B.SilkS")
@@ -704,6 +713,7 @@
     (tags "capacitor")
     (property "Sheetfile" "SOLARMINI01B.kicad_sch")
     (property "Sheetname" "")
+    (property "UST_ID" "5c70984712875079b91f8b4c")
     (path "/e3371594-5fb5-45bc-afdf-557076fc9b85")
     (attr smd)
     (fp_text reference "C4" (at 0 1.68 90) (layer "B.SilkS") hide
@@ -746,6 +756,7 @@
     (tags "capacitor")
     (property "Sheetfile" "SOLARMINI01B.kicad_sch")
     (property "Sheetname" "")
+    (property "UST_ID" "5c70984812875079b91f8bbd")
     (path "/17c22ceb-98fb-4683-aae6-acd1b7ca0ca4")
     (attr smd)
     (fp_text reference "C5" (at 0 1.68 90) (layer "B.SilkS") hide
@@ -788,6 +799,7 @@
     (tags "Diode SMA (DO-214AC)")
     (property "Sheetfile" "SOLARMINI01B.kicad_sch")
     (property "Sheetname" "")
+    (property "UST_ID" "5c70984512875079b91f88c7")
     (path "/506c8cfe-1ecb-4d75-a95a-df4140ea360f")
     (attr smd)
     (fp_text reference "D2" (at -3.556 0.0254) (layer "B.SilkS") hide
@@ -837,6 +849,7 @@
     (tags "resistor")
     (property "Sheetfile" "SOLARMINI01B.kicad_sch")
     (property "Sheetname" "")
+    (property "UST_ID" "60be2ed51287500165e6c1cd")
     (path "/9f2de473-6fc6-4353-bca0-23b09c0a5c8c")
     (attr smd)
     (fp_text reference "R6" (at 0 1.82 90) (layer "B.SilkS") hide
@@ -879,6 +892,7 @@
     (tags "Diode SMA (DO-214AC)")
     (property "Sheetfile" "SOLARMINI01B.kicad_sch")
     (property "Sheetname" "")
+    (property "UST_ID" "5c70984512875079b91f88b0")
     (path "/6ebf9b32-12cd-4595-af06-e4cf81ac4d0a")
     (attr smd)
     (fp_text reference "D1" (at 0 2.5) (layer "B.SilkS")
@@ -970,6 +984,7 @@
     (tags "TSSOP SO")
     (property "Sheetfile" "SOLARMINI01B.kicad_sch")
     (property "Sheetname" "")
+    (property "UST_ID" "5c70984612875079b91f89bc")
     (path "/50aed2bf-d593-4de9-87ef-82cfdd8f023f")
     (attr smd)
     (fp_text reference "U1" (at 0 2.45 90) (layer "B.SilkS") hide
@@ -1027,6 +1042,7 @@
     (tags "resistor")
     (property "Sheetfile" "SOLARMINI01B.kicad_sch")
     (property "Sheetname" "")
+    (property "UST_ID" "5c70984512875079b91f898c")
     (path "/cdcd9210-edd9-432d-88ac-c1f213ce4645")
     (attr smd)
     (fp_text reference "R5" (at -0.0508 -1.9558 90) (layer "B.SilkS")
@@ -1069,6 +1085,7 @@
     (tags "resistor")
     (property "Sheetfile" "SOLARMINI01B.kicad_sch")
     (property "Sheetname" "")
+    (property "UST_ID" "5c70984512875079b91f896b")
     (path "/d1745e29-5316-4db9-843a-c6db511f2de1")
     (attr smd)
     (fp_text reference "R3" (at 0 1.65 90) (layer "B.SilkS")
@@ -1111,6 +1128,7 @@
     (tags "resistor")
     (property "Sheetfile" "SOLARMINI01B.kicad_sch")
     (property "Sheetname" "")
+    (property "UST_ID" "5c70984512875079b91f898c")
     (path "/11bf8d4e-809e-4f87-b7f7-652f9899650b")
     (attr smd)
     (fp_text reference "R4" (at 0 1.65 90) (layer "B.SilkS")
@@ -1153,6 +1171,7 @@
     (tags "capacitor")
     (property "Sheetfile" "SOLARMINI01B.kicad_sch")
     (property "Sheetname" "")
+    (property "UST_ID" "5c70984712875079b91f8b4c")
     (path "/a6860e4f-d3f8-4bc9-97d6-895c5ce84032")
     (attr smd)
     (fp_text reference "C2" (at 0 1.68 90) (layer "B.SilkS") hide
@@ -1195,6 +1214,7 @@
     (tags "Tantal Cap. , Size C, EIA-6032, Reflow,")
     (property "Sheetfile" "SOLARMINI01B.kicad_sch")
     (property "Sheetname" "")
+    (property "UST_ID" "5c70984412875079b91f8867")
     (path "/2e20b56c-3f44-4231-933a-149055a41d3f")
     (attr smd)
     (fp_text reference "C6" (at -8.636 2.247 90) (layer "B.SilkS") hide
@@ -1242,6 +1262,7 @@
     (descr "L DE1207")
     (property "Sheetfile" "SOLARMINI01B.kicad_sch")
     (property "Sheetname" "")
+    (property "UST_ID" "5c70984412875079b91f8822")
     (path "/188e10fd-f44f-42bb-b115-4b3e6c92822c")
     (attr through_hole)
     (fp_text reference "L1" (at 0 0) (layer "B.SilkS")
