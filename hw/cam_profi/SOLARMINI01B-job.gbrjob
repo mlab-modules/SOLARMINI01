@@ -3,9 +3,9 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "(5.99.0-13046-g4fe9f01eb0)"
+      "Version": "6.0.4-6f826c9f35~116~ubuntu20.04.1"
     },
-    "CreationDate": "2021-12-22T12:24:45+01:00"
+    "CreationDate": "2022-04-06T12:52:50+00:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -34,6 +34,11 @@
   ],
   "FilesAttributes": [
     {
+      "Path": "SOLARMINI01B-Edge_Cuts.gbr",
+      "FileFunction": "Profile",
+      "FilePolarity": "Positive"
+    },
+    {
       "Path": "SOLARMINI01B-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
@@ -41,11 +46,6 @@
     {
       "Path": "SOLARMINI01B-B_Cu.gbr",
       "FileFunction": "Copper,L2,Bot",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "SOLARMINI01B-F_Silkscreen.gbr",
-      "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
@@ -59,8 +59,23 @@
       "FilePolarity": "Negative"
     },
     {
-      "Path": "SOLARMINI01B-Edge_Cuts.gbr",
-      "FileFunction": "Profile",
+      "Path": "SOLARMINI01B-F_Silkscreen.gbr",
+      "FileFunction": "Legend,Top",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "SOLARMINI01B-B_Silkscreen.gbr",
+      "FileFunction": "Legend,Bot",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "SOLARMINI01B-F_Paste.gbr",
+      "FileFunction": "SolderPaste,Top",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "SOLARMINI01B-B_Paste.gbr",
+      "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     }
   ],
