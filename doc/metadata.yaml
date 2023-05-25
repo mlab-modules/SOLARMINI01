@@ -1,0 +1,26 @@
+description: 'Small low-power MPPT module for photovoltaic cells. '
+github_branch: SOLARMINI01B
+github_branches:
+- SOLARMINI01A
+- SOLARMINI01B
+github_repo: SOLARMINI01
+github_url: https://github.com/mlab-modules/SOLARMINI01
+homepage: false
+image: doc/img/SOLARMINI01A_top_small.jpg
+images:
+- doc/img/SOLARMINI01A_top_small.jpg
+- doc/img/SOLARMINI01A_top_big.jpg
+- doc/img/SOLARMINI01A_QRcode.png
+- doc/gen/img/SOLARMINI01B-top.png
+- doc/gen/img/SOLARMINI01B-bottom.png
+- doc/gen/SOLARMINI01B-schematic.svg
+issues: 6
+mark: 50
+mod_scheme: doc/gen/SOLARMINI01B-schematic.pdf
+tags:
+- photovoltaic-panels
+- photovoltaic
+- iot-application
+- mlab
+- mppt
+title: SOLARMINI01
