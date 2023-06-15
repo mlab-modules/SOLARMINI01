@@ -8,8 +8,8 @@ github_url: https://github.com/mlab-modules/SOLARMINI01
 homepage: false
 image: doc/img/SOLARMINI01A_top_small.jpg
 images:
-- doc/img/SOLARMINI01A_top_small.jpg
 - doc/img/SOLARMINI01A_top_big.jpg
+- doc/img/SOLARMINI01A_top_small.jpg
 - doc/img/SOLARMINI01A_QRcode.png
 - doc/gen/img/SOLARMINI01B-top.png
 - doc/gen/img/SOLARMINI01B-bottom.png
