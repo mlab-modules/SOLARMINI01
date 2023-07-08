@@ -11,8 +11,8 @@ images:
 - doc/img/SOLARMINI01A_top_big.jpg
 - doc/img/SOLARMINI01A_top_small.jpg
 - doc/img/SOLARMINI01A_QRcode.png
-- doc/gen/img/SOLARMINI01B-top.png
 - doc/gen/img/SOLARMINI01B-bottom.png
+- doc/gen/img/SOLARMINI01B-top.png
 - doc/gen/SOLARMINI01B-schematic.svg
 issues: 6
 mark: 50
