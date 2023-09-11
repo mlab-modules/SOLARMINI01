@@ -8,11 +8,11 @@ github_url: https://github.com/mlab-modules/SOLARMINI01
 homepage: false
 image: doc/img/SOLARMINI01A_top_small.jpg
 images:
-- doc/img/SOLARMINI01A_top_big.jpg
 - doc/img/SOLARMINI01A_top_small.jpg
-- doc/img/SOLARMINI01A_QRcode.png
+- doc/img/SOLARMINI01A_top_big.jpg
 - doc/gen/img/SOLARMINI01B-bottom.png
 - doc/gen/img/SOLARMINI01B-top.png
+- doc/img/SOLARMINI01A_QRcode.png
 - doc/gen/SOLARMINI01B-schematic.svg
 issues: 6
 mark: 50
@@ -30,4 +30,4 @@ tags:
 - mlab-kicad
 - pcb
 title: SOLARMINI01
-updated: '2023-07-21T03:36:10.529880+00:00'
+updated: '2023-09-11T00:58:23.809801+00:00'
