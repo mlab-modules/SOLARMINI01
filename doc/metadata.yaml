@@ -17,6 +17,7 @@ images:
 issues: 6
 mark: 50
 mod_scheme: doc/gen/SOLARMINI01B-schematic.pdf
+status: 0
 tags:
 - photovoltaic-panels
 - photovoltaic
