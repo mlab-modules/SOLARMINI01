@@ -3,6 +3,7 @@ github_branch: SOLARMINI01B
 github_branches:
 - SOLARMINI01A
 - SOLARMINI01B
+github_description: 'Small low-power MPPT module for photovoltaic cells. '
 github_repo: SOLARMINI01
 github_url: https://github.com/mlab-modules/SOLARMINI01
 homepage: false
@@ -31,4 +32,4 @@ tags:
 - mlab-kicad
 - pcb
 title: SOLARMINI01
-updated: '2023-09-16T22:03:22.283600+00:00'
+updated: '2023-09-17T11:30:12.314987+00:00'
